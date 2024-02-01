@@ -1,0 +1,103 @@
+#img1{
+    position: relative;
+    top: 0px;
+    left: -10px;
+    border-radius: 50%;
+}
+
+#heading1:hover,#heading2:hover,#heading3:hover{
+    background: yellow;
+    
+}
+fieldset{
+    background-color: beige;
+}
+#img6{
+    position: relative;
+    left: -380px;
+    top:10px;
+}
+#img7{
+    position: relative;
+    left: -30px;
+    top:10px;
+}
+#hide{
+    display: none;
+    font-style: italic;
+    font-size: 20px;
+}
+#Hide1{
+    display: none;
+    font-style: italic;
+    font-size: 20px;
+}
+#Hide2{
+    display: none;
+    font-style: italic;
+    font-size: 20px;
+}
+#Hide3{
+    display: none;
+    font-style: italic;
+    font-size: 20px;
+}
+.fa{
+    padding:20px;
+    font-size:30px;
+    width:30px;
+    text-align:center;
+    margin:5px 2px;
+    border-radius:50%;
+    text-decoration:none;
+}
+.fa:hover{
+    opacity:0.5;
+}
+
+.fa-Instagram{
+    background-color:#eb34bd;
+    color:white;
+}
+.fa-Linkedin{
+    background-color:#345eeb ;
+    color:white;
+}
+.fa-Whatsapp{
+    background-color:#34eb55 ;
+    color:white;
+}
+.fa-Telegram{
+    background-color:#34aeeb;
+    color:white;
+}
+.fa-Twitter{
+    background-color:#3483eb;
+    color:white;
+}
+.fa-Youtube{
+    background-color:#eb3a34;
+    color:white;
+}
+.fa{
+    padding:20px;
+    font-size:30px;
+    width:30px;
+    text-align:center;
+    margin:5px 2px;
+    border-radius:50%;
+    text-decoration:none;
+}
+
+keyframes header{
+    0%{opacity:0.5;color:green;}
+    20%{opacity:0.7;color:aqua;}
+    40%{opacity:0.8;color:palevioletred;}
+    60%{opacity:0.10;color:maroon;}
+    80%{opacity:0.9;color:darkred;}
+    100%{opacity:0.6;color:darkslateblue;}
+}
+#Hide{
+    position: relative;
+    left: 80px;
+}
